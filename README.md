@@ -17,8 +17,6 @@ A **precision risk & market intelligence engine** for performance marketers. Mos
 - **🌐 Market Health:** Live SERP intelligence via SerpAPI for competitor signal detection and organic ownership classification across 40+ countries.
 - **🎨 Creative Intelligence:** AI-augmented headline/CTA testing studio for rapid variant iteration.
 
-**Stack:** TypeScript · React · Vite · Tailwind · Supabase (Postgres + Edge Functions) · Deno · SerpAPI · Vercel
-
 ---
 
 ### 🛠️ How I Build (AI-Augmented Engineering)
