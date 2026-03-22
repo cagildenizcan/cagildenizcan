@@ -23,7 +23,7 @@ A **precision risk & market intelligence engine** for performance marketers. Mos
 
 ### 🛠️ How I Build (AI-Augmented Engineering)
 
-I use AI as **leverage, not a crutch.** I drive the architecture and product decisions based on real-world marketing pain points; I use agents like **Claude Opus** and tools like **Cursor** to rapidly prototype and ship production-ready code. 
+I use AI as leverage, not a crutch.** I drive the architecture and product decisions based on real-world marketing pain points; I use agents like **Claude Opus** and tools like **Cursor** to rapidly prototype and ship production-ready code. 
 
 The result: A full-scale B2B SaaS with a complex data pipeline and statistical inference engine — **built by a single person.**
 
@@ -31,10 +31,10 @@ The result: A full-scale B2B SaaS with a complex data pipeline and statistical i
 
 ### 📊 Background & Impact
 
-- **5+ Years** in performance marketing & organic growth.
-- Managed **multi-million Euro budgets** for global brands (e.g., BMW, Brillen.de).
-- Expert in **funnel diagnosis**, attribution modeling, and lead generation.
-- Currently focused on **AI-augmented marketing infrastructure** and LLM visibility.
+- 10+ Years** in performance marketing & organic growth.
+- Managed **multi-million Euro budgets** for global brands (e.g., BMW, Brillen.de, Lightricks App, e-commerce, lead generation).
+- Expert in funnel diagnosis, attribution modeling, and lead generation.
+- Currently focused on AI-augmented marketing infrastructure and LLM visibility.
 
 ---
 
